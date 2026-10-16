@@ -1,1 +1,1 @@
-# kaptior
+# kaptior - выбор за вами
